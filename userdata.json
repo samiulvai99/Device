@@ -18,8 +18,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "1b05f97f42b34514",
-        "key": "Samiulvai",
+        "device_id": "1f5d87c98b8eb",
+        "key": "Samlvai",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
@@ -54,14 +54,14 @@
         "Allowoffline": false
     },
     {
-        "device_id": "1f5dba7c98b8eb",
+        "device_id": "1f5db98b8eb",
         "key": "Samivai",
         "expirydate": "15-09-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "8fb9c78baa93e6",
-        "key": "Samiulvai",
+        "device_id": "8fb9c78a93e6",
+        "key": "Samai",
         "expirydate": "30-09-2025",
         "Allowoffline": true
     },
